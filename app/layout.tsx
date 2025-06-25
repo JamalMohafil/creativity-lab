@@ -77,7 +77,7 @@ export const metadata: Metadata = {
     maximumScale: 1,
   },
   verification: {
-    google: "", // أضف Google Search Console verification code هنا
+    google: "DPFUmZ6wUk69t-4Xpgo2NhrQV4Iuesk2zlUgghf72UI", // أضف Google Search Console verification code هنا
   },
 };
 
