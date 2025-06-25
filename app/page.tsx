@@ -62,7 +62,7 @@ export default function Component() {
           </div>
 
           {/* Enhanced Interactive Links - Fixed Height */}
-          <div className="space-y-3">
+          <div className="flex flex-col gap-3 ">
             {/* Patreon - Fixed */}
                 <a href="https://www.patreon.com/14335818/join" target="_blank" >
             <Card className=" hover:scale-[1.02] enhanced-button bg-white/10 backdrop-blur-sm border border-white/20 hover:bg-white/15 hover:border-orange-500/60 transition-all duration-300 hover:shadow-lg hover:shadow-orange-500/20">
