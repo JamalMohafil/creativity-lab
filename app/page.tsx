@@ -110,6 +110,31 @@ export default function Component() {
               </CardContent>
             </Card>
                 </a>
+            {/* Telegram - Fixed */}
+                <a href="https://t.me/+5ZhfNakrOGRlOGM8" target="_blank">
+            <Card className=" hover:scale-[1.02] enhanced-button bg-white/10 backdrop-blur-sm border border-white/20 hover:bg-white/15 hover:border-blue-500/60 transition-all duration-300 hover:shadow-lg hover:shadow-pink-500/20">
+              <CardContent className="p-0">
+                  <Button
+                    className="w-full h-10 bg-transparent cursor-pointer hover:bg-transparen
+              t text-white border-0 text-xl 
+              font-semibold flex items-center justify-center gap-4 px-6"
+                  >
+                    <span className="text-right" dir="rtl">
+                      اشترك عبر Telegram
+                    </span>
+                    <div className="w-10 h-10 bg-black rounded-xl flex items-center justify-center flex-shrink-0 shadow-lg">
+                      <Image
+                        src="/images/telegram.webp"
+                        alt="Telegram Logo"
+                        width={28}
+                        height={28}
+                        className="w-7 h-7 object-contain"
+                      />
+                    </div>
+                  </Button>
+              </CardContent>
+            </Card>
+                </a>
                    {/* WhatsApp Channel Section - Enhanced */}
                    <div className="py-4">
               <div className="bg-gray-800/50 backdrop-blur-sm border border-gray-700/50 rounded-2xl p-5 hover:border-gray-600/50 transition-all duration-300">
