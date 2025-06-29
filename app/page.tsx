@@ -112,7 +112,7 @@ export default function Component() {
                 </a>
             {/* Telegram - Fixed */}
                 <a href="https://t.me/+5ZhfNakrOGRlOGM8" target="_blank">
-            <Card className=" hover:scale-[1.02] enhanced-button bg-white/10 backdrop-blur-sm border border-white/20 hover:bg-white/15 hover:border-blue-500/60 transition-all duration-300 hover:shadow-lg hover:shadow-pink-500/20">
+            <Card className=" hover:scale-[1.02] enhanced-button bg-white/10 backdrop-blur-sm border border-white/20 hover:bg-white/15 hover:border-blue-500/60 transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/20">
               <CardContent className="p-0">
                   <Button
                     className="w-full h-10 bg-transparent cursor-pointer hover:bg-transparen
