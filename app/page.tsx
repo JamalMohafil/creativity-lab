@@ -63,27 +63,32 @@ export default function Component() {
 
           {/* Enhanced Interactive Links - Fixed Height */}
           <div className="flex flex-col gap-3 ">
-            {/* Patreon - Fixed */}
-                <a href="https://www.patreon.com/14335818/join" target="_blank" >
-            <Card className=" hover:scale-[1.02] enhanced-button bg-white/10 backdrop-blur-sm border border-white/20 hover:bg-white/15 hover:border-orange-500/60 transition-all duration-300 hover:shadow-lg hover:shadow-orange-500/20">
+              {/* Telegram - Fixed */}
+              <a href="https://t.me/+5ZhfNakrOGRlOGM8" target="_blank">
+            <Card className=" hover:scale-[1.02] enhanced-button bg-white/10 backdrop-blur-sm border border-white/20 hover:bg-white/15 hover:border-blue-500/60 transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/20">
               <CardContent className="p-0">
-                  <Button className="w-full h-10 bg-transparent hover:bg-transparent cursor-pointer text-white border-0 text-xl font-semibold flex items-center justify-center gap-4 px-6">
-                    <span className="text-right " dir="rtl">
-                      اشترك عبر Patreon
+                  <Button
+                    className="w-full h-10 bg-transparent cursor-pointer hover:bg-transparen
+              t text-white border-0 text-xl 
+              font-semibold flex items-center justify-center gap-4 px-6"
+                  >
+                    <span className="text-right" dir="rtl">
+                      اشترك عبر Telegram
                     </span>
-                    <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center flex-shrink-0 shadow-lg">
+                    <div className="w-10 h-10 bg-white rounded-xl flex items-center justify-center flex-shrink-0 shadow-lg">
                       <Image
-                        src="/images/patreon-logo.png"
-                        alt="Patreon Logo"
-                        width={24}
-                        height={24}
-                        className="w-6 h-6 object-contain"
+                        src="/images/telegram.webp"
+                        alt="Telegram Logo"
+                        width={28}
+                        height={28}
+                        className="w-7 h-7 object-contain"
                       />
                     </div>
                   </Button>
               </CardContent>
             </Card>
                 </a>
+          
 
             {/* TikTok - Fixed */}
                 <a href="https://vt.tiktok.com/ZSkEq8mma/" target="_blank">
@@ -110,25 +115,21 @@ export default function Component() {
               </CardContent>
             </Card>
                 </a>
-            {/* Telegram - Fixed */}
-                <a href="https://t.me/+5ZhfNakrOGRlOGM8" target="_blank">
-            <Card className=" hover:scale-[1.02] enhanced-button bg-white/10 backdrop-blur-sm border border-white/20 hover:bg-white/15 hover:border-blue-500/60 transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/20">
+            {/* Patreon - Fixed */}
+            <a href="https://www.patreon.com/14335818/join" target="_blank" >
+            <Card className=" hover:scale-[1.02] enhanced-button bg-white/10 backdrop-blur-sm border border-white/20 hover:bg-white/15 hover:border-orange-500/60 transition-all duration-300 hover:shadow-lg hover:shadow-orange-500/20">
               <CardContent className="p-0">
-                  <Button
-                    className="w-full h-10 bg-transparent cursor-pointer hover:bg-transparen
-              t text-white border-0 text-xl 
-              font-semibold flex items-center justify-center gap-4 px-6"
-                  >
-                    <span className="text-right" dir="rtl">
-                      اشترك عبر Telegram
+                  <Button className="w-full h-10 bg-transparent hover:bg-transparent cursor-pointer text-white border-0 text-xl font-semibold flex items-center justify-center gap-4 px-6">
+                    <span className="text-right " dir="rtl">
+                      اشترك عبر Patreon
                     </span>
-                    <div className="w-10 h-10 bg-white rounded-xl flex items-center justify-center flex-shrink-0 shadow-lg">
+                    <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center flex-shrink-0 shadow-lg">
                       <Image
-                        src="/images/telegram.webp"
-                        alt="Telegram Logo"
-                        width={28}
-                        height={28}
-                        className="w-7 h-7 object-contain"
+                        src="/images/patreon-logo.png"
+                        alt="Patreon Logo"
+                        width={24}
+                        height={24}
+                        className="w-6 h-6 object-contain"
                       />
                     </div>
                   </Button>
