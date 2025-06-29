@@ -122,7 +122,7 @@ export default function Component() {
                     <span className="text-right" dir="rtl">
                       اشترك عبر Telegram
                     </span>
-                    <div className="w-10 h-10 bg-black rounded-xl flex items-center justify-center flex-shrink-0 shadow-lg">
+                    <div className="w-10 h-10 bg-white rounded-xl flex items-center justify-center flex-shrink-0 shadow-lg">
                       <Image
                         src="/images/telegram.webp"
                         alt="Telegram Logo"
