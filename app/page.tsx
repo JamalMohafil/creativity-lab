@@ -64,7 +64,7 @@ export default function Component() {
           {/* Enhanced Interactive Links - Fixed Height */}
           <div className="flex flex-col gap-3 ">
               {/* Telegram - Fixed */}
-              <a href="https://t.me/+zzqBu2RxFRljZTc0" target="_blank">
+              <a href="https://t.me/+EGwjQxLGphc4NzNk" target="_blank">
             <Card className=" hover:scale-[1.02] enhanced-button bg-white/10 backdrop-blur-sm border border-white/20 hover:bg-white/15 hover:border-blue-500/60 transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/20">
               <CardContent className="p-0">
                   <Button
