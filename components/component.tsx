@@ -265,7 +265,7 @@ export default function Component() {
                       <span className="text-xs text-gray-400 arabic-text">تفاعل مباشر</span>
                     </div>
                   </div>
-                   <a
+                   {/* <a
                     href="https://whatsapp.com/channel/0029VbAwaVWKQuJQGjOXAe1U"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -289,7 +289,7 @@ export default function Component() {
                         </div>
                       </div>
                     </div>
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>
