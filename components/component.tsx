@@ -335,7 +335,7 @@ export default function Component() {
                   {/* WhatsApp Contact Buttons */}
                   <div className="space-y-3 pt-2">
                     {/* First WhatsApp Number */}
-                    <a href="https://wa.me/905377660315" target="_blank" rel="noopener noreferrer" className="block">
+                    <a href="https://wa.me/905514987428" target="_blank" rel="noopener noreferrer" className="block">
                       <Card className="hover:scale-[1.02] bg-white/10 backdrop-blur-sm border border-white/20 hover:bg-white/15 hover:border-green-500/60 transition-all duration-300 hover:shadow-lg hover:shadow-green-500/20">
                         <CardContent className="p-0">
                           <Button className="w-full cursor-pointer h-5 bg-transparent hover:bg-transparent text-white border-0 text-lg font-semibold flex items-center justify-center gap-4 px-6">
