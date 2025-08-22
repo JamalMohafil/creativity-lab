@@ -214,7 +214,7 @@ export default function Component() {
               </DialogContent>
             </Dialog>
 
-            {/* Telegram - Fixed */}
+            {/* Telegram - Fixed
             <a href="https://t.me/+EGwjQxLGphc4NzNk" target="_blank" rel="noreferrer">
               <Card className="hover:scale-[1.02] enhanced-button bg-white/10 backdrop-blur-sm border border-white/20 hover:bg-white/15 hover:border-blue-500/60 transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/20">
                 <CardContent className="p-0">
@@ -234,7 +234,7 @@ export default function Component() {
                   </Button>
                 </CardContent>
               </Card>
-            </a>
+            </a> */}
 
              <div className="py-4">
               <div className="bg-gray-800/50 backdrop-blur-sm border border-gray-700/50 rounded-2xl p-5 hover:border-gray-600/50 transition-all duration-300">
